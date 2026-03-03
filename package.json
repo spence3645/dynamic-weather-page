@@ -1,0 +1,8 @@
+{
+  "name": "dynamic-weather-page",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "latest"
+  }
+}
